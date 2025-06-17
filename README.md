@@ -48,7 +48,8 @@ Compatible with Windows and standard webcams.
 ![MS Mighty Helper Logo](./images/DemoShow-6.png)
 ![MS Mighty Helper Logo](./images/DemoShow-7.png)
 ![MS Mighty Helper Logo](./images/DemoShow-8.png)
-![MS Mighty Helper Logo](./images/icontray.png)
+![MS Mighty Helper Logo](./images/pixel-gesture-icontray-options.png)
+![MS Mighty Helper Logo](./images/Languages-available.png)
 
 ---
 ## 🚀 Compiled Binary for Quick Start
