@@ -16,12 +16,14 @@ Pixel Gesture is a smart and sleek tool that lets you control your PowerPoint pr
 ---
 
 ✋ Key Features
-Action	Default Gesture	Quick Description
-▶️ Start Presentation	Open hand 🖐️	Starts the presentation from the current slide
-🔄 Start from Beginning	Palm facing you 🤚	Begins the presentation from the very first slide
-👉 Next Slide	Open hand with fingers together ✋	Moves forward to the next slide
-👈 Previous Slide	Hand with thumb tucked in (4 fingers open) ✋	Goes back to the previous slide
-⏹️ Exit Presentation	Closed fist ✊	Ends the presentation and returns to normal mode
+| Action                  | Default Gesture                              | Quick Description                                 |
+| ----------------------- | -------------------------------------------- | ------------------------------------------------- |
+| ▶️ Start Presentation   | Open hand 🖐️                                | Starts the presentation from the current slide    |
+| 🔄 Start from Beginning | Palm facing you 🤚                           | Begins the presentation from the very first slide |
+| 👉 Next Slide           | Open hand with fingers together ✋            | Moves forward to the next slide                   |
+| 👈 Previous Slide       | Hand with thumb tucked in (4 fingers open) ✋ | Goes back to the previous slide                   |
+| ⏹️ Exit Presentation    | Closed fist ✊                                | Ends the presentation and returns to normal mode  |
+
 ---
 
 ## ⚙️ How does it work?
