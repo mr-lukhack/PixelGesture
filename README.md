@@ -1,4 +1,4 @@
-# 🚀 Mighty Helper
+# 🚀 Pixel Gesture ( Official Repo )
  
 ![MS Mighty Helper Logo](./logo_128x128.png)
 
@@ -38,7 +38,7 @@ Compatible with Windows and standard webcams.
 
 ---
 
-## 📸 Capturas
+## 📸 Screenshots
 
 ![MS Mighty Helper Logo](./images/DemoShow-1.png)
 ![MS Mighty Helper Logo](./images/DemoShow-2.png)
