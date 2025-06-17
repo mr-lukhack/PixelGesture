@@ -1,38 +1,38 @@
 # 🚀 Mighty Helper
  
-![MS Mighty Helper Logo](./images/mightyRM.png)
+![MS Mighty Helper Logo](./logo_128x128.png)
 
-> **El asistente definitivo para controlar tus presentaciones con gestos naturales y sin complicaciones.**
-
----
-
-## 🎯 ¿Qué es Mighty Helper?
-
-Mighty Helper es una **herramienta inteligente y elegante** que te permite controlar tus presentaciones en PowerPoint (y otras apps compatibles) usando solo la cámara y **gestos de la mano**. Olvídate del clicker, ratón o teclado: ¡mueve tu mano y controla tus diapositivas de forma natural y profesional!
-
-Ideal para conferencias, clases, reuniones y presentaciones que necesitan un toque tecnológico sin complicaciones.
+> ## The ultimate assistant to control your presentations and much more with natural, Touchless Control !! hand gestures !!!
 
 ---
 
-## ✋ Funcionalidades principales
+## 🎯 What is Pixel Gesture?
 
-| Acción                      | Gesto por defecto                         | Descripción rápida                              |
-|----------------------------|------------------------------------------|------------------------------------------------|
-| ▶️ Iniciar presentación     | Mano abierta 🖐️                          | Empieza la presentación desde la diapositiva actual |
-| 🔄 Iniciar desde el principio| Palma girada hacia ti 🤚                  | Comienza la presentación desde el primer slide |
-| 👉 Avanzar diapositiva       | Mano abierta con dedos juntos ✋          | Avanza a la siguiente diapositiva               |
-| 👈 Retroceder diapositiva    | Mano con pulgar recogido (4 dedos abiertos) ✋ | Retrocede a la diapositiva anterior            |
-| ⏹️ Salir de presentación     | Puño cerrado ✊                           | Finaliza la presentación y vuelve al modo normal |
+Pixel Gesture is a smart and sleek tool that lets you control your PowerPoint presentations (and other compatible apps) using only your camera and hand gestures. Forget clickers, mice, or keyboards: just move your hand and navigate your slides naturally and professionally!
+
+## Perfect for conferences, classes, meetings, and presentations that need a techy touch without complications.
+
 
 ---
 
-## ⚙️ ¿Cómo funciona?
+✋ Key Features
+Action	Default Gesture	Quick Description
+▶️ Start Presentation	Open hand 🖐️	Starts the presentation from the current slide
+🔄 Start from Beginning	Palm facing you 🤚	Begins the presentation from the very first slide
+👉 Next Slide	Open hand with fingers together ✋	Moves forward to the next slide
+👈 Previous Slide	Hand with thumb tucked in (4 fingers open) ✋	Goes back to the previous slide
+⏹️ Exit Presentation	Closed fist ✊	Ends the presentation and returns to normal mode
+---
 
-- Usa **MediaPipe Hands** para detectar la posición y estado de los dedos en tiempo real.
-- Detecta gestos claros y naturales para controlar PowerPoint usando **pyautogui** para enviar teclas.
-- Funciona en segundo plano con icono de bandeja, para que puedas activarlo o desactivarlo fácilmente.
-- Compatible con Windows y cámara web estándar.
-- Permite usar los gestos incluso cuando PowerPoint no está en modo presentación (modo "LifeShow").
+## ⚙️ How does it work?
+
+Uses MediaPipe Hands to detect finger positions and states in real time.
+
+Recognizes clear, natural gestures to control Keynotes software, web-browsers and much more.
+
+Runs in the background with a tray icon for easy activation/deactivation.
+
+Compatible with Windows and standard webcams.
 
 ---
 
@@ -49,38 +49,7 @@ Ideal para conferencias, clases, reuniones y presentaciones que necesitan un toq
 ![MS Mighty Helper Logo](./images/icontray.png)
 
 ---
-## 🚀 Binario Compilado para uso rápido
+## 🚀 Compiled Binary for Quick Start
 
 https://github.com/mr-lukhack/Mighty-Helper/releases/tag/ReleaseCandidate
 
-## 🚀 Instalación ( Pronto se liberará el código de la versión Free )
-
-"To be uploaded soon"
-
-🤝 Contribuciones
-¡Contribuciones son bienvenidas! Si quieres añadir nuevas funcionalidades, mejorar la detección o proponer nuevos gestos, abre un issue o pull request.
-
-💡 Ideas futuras
-Soporte para otras apps (Keynote, Google Slides)
-
-Más gestos personalizados y configurables
-
-Integración con asistentes de voz
-
-Feedback visual mejorado con realidad aumentada
-
-🛡 Licencia
-MIT License © 2025 Lukdev (Lucas Manuel Aguilar Llamas)
-
-📬 Contacto
-Si quieres ponerte en contacto, sugerir algo o simplemente decir hola, aquí estoy:
-
-GitHub: https://github.com/mr-lukhack
-
-LinkedIn: https://www.linkedin.com/in/lukhack/
-
-Email: picateclas @ pronton .me
-
-¡Controla tus presentaciones y el navegador sin esfuerzo como un pro y deja que tus manos hablen por ti! 🙌
-
-Hecho con ❤ y código limpio por Lukdev
