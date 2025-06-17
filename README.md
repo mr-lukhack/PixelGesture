@@ -1,6 +1,6 @@
 # 🚀 Pixel Gesture ( Official Repo )
  
-![MS Mighty Helper Logo](./logo_128x128.png)
+![MS Mighty Helper Logo](./images/logo_128x128.png)
 
 > ## The ultimate assistant to control your presentations and much more with natural, Touchless Control !! hand gestures !!!
 
