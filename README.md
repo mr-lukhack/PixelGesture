@@ -54,5 +54,5 @@ Compatible with Windows and standard webcams.
 ---
 ## 🚀 Compiled Binary for Quick Start
 
-https://github.com/mr-lukhack/Mighty-Helper/releases/tag/ReleaseCandidate
+(https://github.com/mr-lukhack/PixelGesture/releases/download/BETA-RC1/PixelGesture.exe)
 
